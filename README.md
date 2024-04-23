@@ -1,4 +1,4 @@
-C-Level-Presentation for Shopping Company
+# C-Level-Presentation for Shopping Company
 
 We harnessed the power of Power BI to craft comprehensive data presentation tailored for C-level executives at a shopping company.
 Synthesized key metrics and insights into visually compelling presentation.
